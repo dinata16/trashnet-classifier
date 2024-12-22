@@ -3,6 +3,7 @@
 This repository contains a deep learning project to classify trash types using the TrashNet dataset. The project is developed using TensorFlow and organized into the following sections:
 
 ## Project Tree
+```
 trashnet-classifier/
 ├── notebooks/
 │   └── model_development.ipynb
@@ -15,6 +16,7 @@ trashnet-classifier/
 └── .github/
     └── workflows/
         └── ci.yml
+```
 
 
 ### Features
