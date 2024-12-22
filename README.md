@@ -36,18 +36,22 @@ pip install -r requirements.txt
 ```
 
 3. Run the notebook for development:
-```jupyter notebook notebooks/model_development.ipynb
+```
+jupyter notebook notebooks/model_development.ipynb
 ```
 
 ## Usage
 For data preparation:
 ```
-python scripts/data_preparation.py```
+python scripts/data_preparation.py
+```
 
 For model training:
 ```
-python scripts/model_training.py```
+python scripts/model_training.py
+```
 
 For evaluation:
 ```
-python scripts/evaluation.py```
+python scripts/evaluation.py
+```
